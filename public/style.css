@@ -2,9 +2,8 @@
 /* GLOBAL */
 
 *{
-      /* corrigindo comportamento padrão css*/
-      box-sizing: border-box;
-
+    /* corrigindo comportamento padrão css*/
+    box-sizing: border-box;
 }
 
 html, body {
